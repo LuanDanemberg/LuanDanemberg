@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuanDanemberg
 - 👀 I’m interested in  aprender novas linguagens d e programação.
-- 🌱 I’m currently learning  java, c/c++
+- 🌱 I’m currently learning  java, c/c++, python, data sciense, data analystic.
 - 💞️ I’m looking to collaborate on  compartilha conhecimento
 - 📫 How to reach me  email cbdanembergluan@gmail.com
 
